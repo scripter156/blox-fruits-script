@@ -1,9 +1,6 @@
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
---[[ 
-THIS IS MADE BY C00L_SAM
---]]
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
